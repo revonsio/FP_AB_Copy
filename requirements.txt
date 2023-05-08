@@ -1,0 +1,6 @@
+mahotas
+streamlit
+numpy
+scikit-learn
+keras
+tensorflow
